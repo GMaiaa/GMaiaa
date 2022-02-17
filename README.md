@@ -2,7 +2,7 @@
 
 - 🦾 I’m currently focused on improving my knowledge
 - 🌱 I’m currently studying information system
-- 👯 I’m looking to improve my skills  
+- 🧐 I’m looking to improve my skills  
 
 <div align="center">
   <a href="https://github.com/GMaiaa">

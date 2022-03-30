@@ -13,7 +13,7 @@
   <img align="center" alt="Maia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maia-C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457">
+  <img align="center" alt="Maia-C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/107px-C_Logo.png?20201023095457">
   <img align="right" alt="Maia-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif">
 </div>
   
